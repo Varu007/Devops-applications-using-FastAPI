@@ -1,4 +1,4 @@
-# Dockerize-ML-applications-using-FastAPI
+# Devops-applications-using-FastAPI
 
 This repository contains code for creating and deploying a machine learning application using FastAPI and Docker. The application is a simple classifier that predicts the survival of passengers on the Titanic based on their features.
 
